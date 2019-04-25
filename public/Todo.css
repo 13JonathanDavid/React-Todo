@@ -1,0 +1,7 @@
+.list-item {
+    padding:25px;
+    border:solid red thin;
+}
+.list-item.item-complete {
+    text-decoration: line-through;
+}
